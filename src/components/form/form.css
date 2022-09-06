@@ -1,0 +1,15 @@
+/* .form-items{
+    width: 80%;
+    margin: auto;
+} */
+.form-items{
+    margin-top: 20px;
+    border: solid 1px orange;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.sm{
+    width: 13%;
+}

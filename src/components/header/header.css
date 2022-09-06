@@ -1,0 +1,55 @@
+/* *{
+    box-sizing: border-box;
+} */
+/* body{
+    margin: 0;
+    padding: 0;
+} */
+header{
+    background-color: orange;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    height: 85px;
+    align-items: center;
+}
+.logo{
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Georgia;
+}
+.nav-item{
+    text-decoration: none;
+    margin-right: 30px;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Georgia;
+}
+.imagehead {
+    position: relative;
+  }
+  .textonimg{
+   position: absolute;
+   right: 30%;
+   left: 30%;
+   bottom: 25%;
+   color: rgb(233, 201, 176);
+   font-size: x-large;
+   font-family: Georgia;
+  }
+  
+  .images{
+    margin-top: 10px;
+    filter: brightness(50%);
+  }
+  .about{
+    margin-top: 15px;
+    color: gray;
+    padding-right: 70%;
+  }
